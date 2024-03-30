@@ -33,6 +33,10 @@
 
 ![image](https://github.com/SergeyBilyamov/Phonebook/assets/151991545/7b53b033-7ad2-4d86-a5f4-c05c891cbccc)
 
+* При вводе неверной команды выдается предупреждение и пользователя возвращает в гравное меню выбора.
+
+![image](https://github.com/SergeyBilyamov/Phonebook/assets/151991545/ea5ee957-6927-42d0-9484-5fce14922554)
+
 * Работа программы завершается только после выбора соотвествующего пункта в меню.
 
 ![image](https://github.com/SergeyBilyamov/Phonebook/assets/151991545/ce1399fa-d0c0-46cf-b705-1ae02f12dba3)
